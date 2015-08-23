@@ -282,6 +282,7 @@ pml_write_files(answers)
 # please make sure the files that get written out have one character each with 
 # your prediction for the corresponding problem ID. I have noticed the script 
 # produces strange results if the answers variable is not a character vector. 
+# I think that by using cross validation the code needs a random forest.
 
 ################################################################################
 ################################################################################
