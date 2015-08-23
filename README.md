@@ -1,10 +1,10 @@
 # Practical_Machine_Learning_Project1
----
+----------------------------------------------------------------------------
 title: "README.md"
 author: "Pablo"
 date: "Sunday, 23th August, 2015"
 output: html_document
----
+--------------------------------------------------------------------------------
 
 ## Writeup
 The writeup for this project is ml_project_writeup.Rmd (equivalently ml_project_writeup.md and ml_project_writeup.html)
