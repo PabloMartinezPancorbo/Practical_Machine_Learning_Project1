@@ -222,6 +222,7 @@ testing_mod3$classe         <- testing$classe
 ################################################################################
 ################################################################################
 # Models. We use the training_mod3 dataset. 57 + classe variables
+# We finish using Cross Validation to prune it.
 
 # Random Forest
 model30 <- train(classe ~., method="rf", data=training_mod3, 
